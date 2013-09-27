@@ -1,0 +1,34 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1380264106000 1141 2e7adf4d6e936a50f79ebd5dfb08500a9e78721a /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/MainActivity$3.class
+1380264106000 3862 cac95ade28fb48e068806d9e7b39dfad09c0a73b /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/PrimaryPaintView.class
+1380264106000 479 aaf01a1927a4e3f36e569f687d7e6f39a5a90dfc /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/R$string.class
+1380264106000 954 56efb78231be2f7d0c86a7b11e14a132b947583c /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/PaletteView$2.class
+1380264106000 287 af2be50b4367a73af7fee4e2e9190344f5a4b8e2 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/PrimaryPaintView$OnColorChangeListener.class
+1380264106000 954 3c3055dc540f76827621d1f2f4daecdab3bb4bf3 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/MainActivity$7.class
+1380264106000 3539 abbec1362e7c8fced816f1b0cf56bfb09248c146 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/PaintAreaView$PaintPath.class
+1380264106000 654 179535555e66ce72719edd3f4b53ab226363311e /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/R.class
+1380264106000 296 5a2c51eb1912141b18faa1952b9d96ac60570f50 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/PaletteView$OnSelectedColorChangeListener.class
+1380264106000 1141 ac05a7ea5a7f18736f681ae8050e047ca139901b /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/MainActivity$2.class
+1380264106000 1108 32fd7505e4dda3f7c12ba8e2dd3d340e6683102a /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/MainActivity$1.class
+1380264106000 2578 01d5e79b11728b9a6dc32ee75465b5c0f2ee9f09 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/SelectorView.class
+1380264106000 1999 06722090b24cce2b8d8ac916bfeaca6f87f8b6e8 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/CustomPaintView.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1380264106000 1141 234104ab579d5fb3f61311159f0beca1a40177d9 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/MainActivity$4.class
+1380264106000 5490 4f3e72b85372a3704d72f757bcddba0056fcf944 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/PaintAreaView.class
+1380264106000 349 81302afa7b99b08a39c7652985913d580aab83bf /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/R$attr.class
+1380264106000 440 33cbd101a933e18afe876739e5429152e5669bce /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/R$style.class
+1380264106000 421 1ef7604b2f566c8590b940537d4df70341233d76 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/R$drawable.class
+1380264106000 7316 9128da043fd4877c1da071897335fd348201c1e9 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/MainActivity.class
+1380264106000 1022 0ddb9966f9d1f398864888b4b5fcf0ff7f915f92 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/MainActivity$6.class
+1380264106000 472 a7443432ccff2e19b91ed5a391582c34582fee6f /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/BuildConfig.class
+1380264106000 470 763b61a856658f95b0c9b748bbbdcb1c40146e26 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/R$dimen.class
+1380264106000 13353 58215020f32bfa558c94f40fa8c67a74d8131cfb /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/PaletteView.class
+1380264106000 397 ea9a8891e4f94532ab2865c5b6f6dd05e1fbdbf3 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/R$menu.class
+1380264106000 434 9703a8ab5cb462c9eeb7ea8e03e4cabf2c99177f /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/R$id.class
+1380264106000 2387 8a0360fd17342256435353a981c0a0825c792f9a /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/PaletteView$1.class
+1380264105000 1492 b5108a7a22bdf0a955de4dc06d494299666dad96 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/CMYColor.class
+1380264106000 758 c14b5604d778c942fbb90c841b51f5de096e404c /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/PaintAreaView$PaintPath$FloatPair.class
+1380264106000 1391 1d06c3b7884d8f3bbb0c3c184f2f5cdd1a494a8a /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/MainActivity$5.class
+1380264106000 2745 fd86d70f4fac0b9049bfc972dd7614dfa5635041 /Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/classes/debug/com/avery/fingerpaint/MixButtonView.class

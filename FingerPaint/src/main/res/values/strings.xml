@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FingerPaint</string>
+    <string name="action_settings">Settings</string>
+    <string name="help_text">HOW TO:\n\n
+The large circle at the bottom center shows the current paint color. Tap this to open and close the color palette.\n\n
+
+The three primary colors (cyan, magenta, yellow) are used to adjust the composition of the current color.
+Touch and drag one of these to adjust the amount, as indicated by the green ring around the color.\n\n
+
+The smaller colors at the top are user configured colors. One of them is always selected, and matches the current color.
+Switch to another simply by tapping on the color you want.\n\n
+
+Colors can be mixed by tapping the Mix button, and then selecting the colors to be mixed.
+When the Mix button is deselected, the new color will be added to the palette, if there is room.
+To remove a color from the palette, touch it and hold.
+    </string>
+
+</resources>

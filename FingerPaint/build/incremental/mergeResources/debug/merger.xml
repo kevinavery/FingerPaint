@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/src/main/res" >
+            <file
+                name="fingerpaint_icon"
+                path="/Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/src/main/res/drawable/fingerpaint_icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="main"
+                path="/Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="help_text" >HOW TO:\n\n
+The large circle at the bottom center shows the current paint color. Tap this to open and close the color palette.\n\n
+
+The three primary colors (cyan, magenta, yellow) are used to adjust the composition of the current color.
+Touch and drag one of these to adjust the amount, as indicated by the green ring around the color.\n\n
+
+The smaller colors at the top are user configured colors. One of them is always selected, and matches the current color.
+Switch to another simply by tapping on the color you want.\n\n
+
+Colors can be mixed by tapping the Mix button, and then selecting the colors to be mixed.
+When the Mix button is deselected, the new color will be added to the palette, if there is room.
+To remove a color from the palette, touch it and hold.
+                </string>
+                <string name="app_name" >FingerPaint
+                </string>
+            </file>
+            <file
+                path="/Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/src/debug/res" />
+    </dataSet>
+
+</merger>

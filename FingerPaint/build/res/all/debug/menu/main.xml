@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_clear"
+        android:title="Clear" />
+    <item android:id="@+id/action_help"
+        android:title="Help" />
+</menu>
+<!-- From: file:/Users/kevin/Documents/Projects/android/FingerPaintProject/FingerPaint/src/main/res/menu/main.xml -->
